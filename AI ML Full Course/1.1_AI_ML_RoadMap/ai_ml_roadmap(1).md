@@ -40,3 +40,8 @@ MLOps + Deployment
 10. **RAG**
 11. **AI Agents**
 12. **MLOps + Deployment**
+
+
+
+# Full Playlist KrishNayak :-> https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/README.md
+
